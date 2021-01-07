@@ -1,4 +1,4 @@
-# 2020_DIP_seminar_week4
+# 2020_DIP_Holefilling_Superpixel
 
 ## Using C++ opencv
 ## Huffman Coding, And Superpixel segmentation
